@@ -31,7 +31,9 @@ function Intro() {
         <section className="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
           <div className="content">
             <h2>My Interests</h2>
-            <p>LeetCode, Basketball, Video Games, Weightlifting.</p>
+            <p>
+              LeetCode, Basketball, Rock Climbing, Video Games, Weightlifting.
+            </p>
           </div>
           <div className="image">
             <img src="images/spotlight02.jpg" alt="Wenwei Xu" />
