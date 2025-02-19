@@ -105,7 +105,7 @@ function Intro() {
               <section>
                 <span className="icon solid style2 fa-phone"></span>
                 <h3>Email</h3>
-                <p>Unavailable</p>
+                <p>wenweixubusiness@gmail.com</p>
               </section>
               <section>
                 <span className="icon style2 fa-paper-plane"></span>
